@@ -1,0 +1,38 @@
+[
+    {
+        "key": "B002R8IYK",
+        "srvcName": "Acoustic Guiter",
+        "duration": "2 Months",
+        "details": "We have some best teacher from all around the globe. we are the best and we provide the best services to our clients",
+        "cost": 5000,
+        "country": "Bangladesh",
+        "img": "https://laughing-hodgkin-a9074c.netlify.app/1.jpg"
+    },
+    {
+        "key": "B002YK",
+        "srvcName": "Ukulele",
+        "duration": "2 Months",
+        "details": "We have some best teacher from all around the globe. we are the best and we provide the best services to our clients",
+        "cost": 700,
+        "country": "Bangladesh",
+        "img": "https://laughing-hodgkin-a9074c.netlify.app/2.jpeg"
+    },
+    {
+        "key": "B0IYK",
+        "srvcName": "Electric Guiter",
+        "duration": "2 Months",
+        "details": "We have some best teacher from all around the globe. we are the best and we provide the best services to our clients",
+        "cost": 1800,
+        "country": "Bangladesh",
+        "img": "https://laughing-hodgkin-a9074c.netlify.app/3.jpeg"
+    },
+    {
+        "key": "02R8IYK",
+        "srvcName": "Tabla",
+        "duration": "2 Months",
+        "details": "We have some best teacher from all around the globe. we are the best and we provide the best services to our clients",
+        "cost": 500,
+        "country": "Bangladesh",
+        "img": "https://laughing-hodgkin-a9074c.netlify.app/4.jpeg"
+    }
+]
