@@ -1,4 +1,4 @@
-# Music school is here
+# English school is here
 
 Description:
 This is a website about music training institute.
