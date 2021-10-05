@@ -1,7 +1,7 @@
 # English school is here
 
 Description:
-This is a website about music training institute.
+This is a website about English training institute.
 we offer best teachers and teaching instruments.
 We provide best teaching environment with latest instruments.
 
