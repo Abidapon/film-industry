@@ -58,7 +58,7 @@ const Footer = () => {
                             </li>
 
                             <li>
-                                <a href="vv">Terms of Use</a>
+                                <a href="vv">Terms & Condition</a>
                             </li>
 
                         </ul>

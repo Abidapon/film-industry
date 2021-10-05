@@ -11,7 +11,7 @@ const Cards = (props) => {
                     <h6>Duration: <small className='fw-normal'>{duration}</small></h6>
                     <h6> <small className='fw-normal'>{details}</small></h6>
                     <h6 className='fw-normal'>Costs:<span className='text-danger '> $</span><small className='fw-bold' >{cost}</small ></h6>
-                    <button className='btn btn-success w-50'>Enroll</button>
+                    <button className='btn btn-outline-primary w-50'>Enroll</button>
                 </div>
                 <div className="card-footer">
                     <small className="text-muted">Last updated 3 mins ago</small>

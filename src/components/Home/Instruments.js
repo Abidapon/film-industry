@@ -12,7 +12,7 @@ const Instruments = (props) => {
                     <h6> <small className='fw-normal'>{details}</small></h6>
                     <h6 className='fw-normal'>Costs:<span className='text-danger '> $</span><small className='fw-bold' >{cost}</small ></h6>
 
-                    <button className='btn btn-success w-50'>Enroll</button>
+                    <button className='btn btn-primary w-50'>Enroll</button>
 
                 </div>
                 <div className="card-footer">

@@ -12,7 +12,7 @@ const Home = () => {
     }, [])
     return (
         <div className='p-5 bg-light'>
-            <h2 className='mb-3'>Learn <span className='text-info'>Music</span> With Expert</h2>
+            <h2 className='mb-3'>Learn <span className='text-info'>English</span> With Expert</h2>
             <div className='col-md-9 mx-auto'>
                 <div id="carouselExampleIndicators" className="carousel slide " data-bs-ride="carousel">
                     <div className="carousel-indicators">

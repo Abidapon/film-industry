@@ -4,7 +4,7 @@ const Header = () => {
     return (
         <div className='bg-primary p-3'>
             <div className="d-flex row justify-content-center align-items-center container p-3">
-                <h1 className='text-white col-md-6  fw-bold'>Welcome To <span className='text-warning'>Music</span> Zone...!</h1>
+                <h1 className='text-white col-md-6  fw-bold'>Welcome To <span className='text-warning'>English</span> Zone...!</h1>
             </div>
             <nav className=' p-2 g-3 '>
 
